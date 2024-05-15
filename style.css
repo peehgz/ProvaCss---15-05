@@ -1,0 +1,64 @@
+
+header{
+    background-color: black;
+    color: white; 
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
+#hero-image{
+    background-image: url(../imegens/RETROWAVE-OASIS-33331.webp);
+    width: 100%;
+    height: 1100px;
+    background-size: cover;
+}
+
+#features{
+    border: 1px solid black;
+    height: 350px;
+    border: none;
+    margin-top: 100px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+li{
+    border: 1px solid black;
+    margin: 10px;
+    text-align: justify;
+    text-align: center;
+}
+
+.list{
+    height: 300px;
+    align-items: center;
+    border: none;
+}
+
+#cfa{
+    border: 1px solid black;
+    text-align: center;
+    border: none;
+}
+
+hr{
+    width: 250px;
+}
+
+input{
+    border-radius: 5px;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(215, 175, 253);
+}
+
+
+
